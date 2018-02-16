@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "chatops": "git@github.com:riskalyze/chatops.git",
+    "salt": "git@github.com:riskalyze/salt.git",
+    "salt-api": "git@github.com:riskalyze/salt-api.git"
+  }
+}
